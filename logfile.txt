@@ -1,0 +1,5 @@
+[1011] Error: "This is a log error"
+[1013] Error: "This is a log error"
+[1015] Warning: "This is a log warning"
+[1017] Error: "This is a log error"
+[1019] Warning: "This is a log warning"

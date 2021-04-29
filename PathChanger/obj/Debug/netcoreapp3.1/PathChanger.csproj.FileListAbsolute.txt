@@ -1,0 +1,13 @@
+D:\Work\Job Search\mediff\PathChanger\bin\Debug\netcoreapp3.1\PathChanger.exe
+D:\Work\Job Search\mediff\PathChanger\bin\Debug\netcoreapp3.1\PathChanger.deps.json
+D:\Work\Job Search\mediff\PathChanger\bin\Debug\netcoreapp3.1\PathChanger.runtimeconfig.json
+D:\Work\Job Search\mediff\PathChanger\bin\Debug\netcoreapp3.1\PathChanger.runtimeconfig.dev.json
+D:\Work\Job Search\mediff\PathChanger\bin\Debug\netcoreapp3.1\PathChanger.dll
+D:\Work\Job Search\mediff\PathChanger\bin\Debug\netcoreapp3.1\PathChanger.pdb
+D:\Work\Job Search\mediff\PathChanger\obj\Debug\netcoreapp3.1\PathChanger.csprojAssemblyReference.cache
+D:\Work\Job Search\mediff\PathChanger\obj\Debug\netcoreapp3.1\PathChanger.AssemblyInfoInputs.cache
+D:\Work\Job Search\mediff\PathChanger\obj\Debug\netcoreapp3.1\PathChanger.AssemblyInfo.cs
+D:\Work\Job Search\mediff\PathChanger\obj\Debug\netcoreapp3.1\PathChanger.csproj.CoreCompileInputs.cache
+D:\Work\Job Search\mediff\PathChanger\obj\Debug\netcoreapp3.1\PathChanger.dll
+D:\Work\Job Search\mediff\PathChanger\obj\Debug\netcoreapp3.1\PathChanger.pdb
+D:\Work\Job Search\mediff\PathChanger\obj\Debug\netcoreapp3.1\PathChanger.genruntimeconfig.cache
